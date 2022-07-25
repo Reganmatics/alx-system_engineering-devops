@@ -1,4 +1,5 @@
 #!/usr/bin/bash env
 # this file prints out lines displaying the bash `word`
 # shellcheck disable=SC2009
+
 ps -faux | grep "bash"
