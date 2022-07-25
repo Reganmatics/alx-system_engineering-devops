@@ -1,4 +1,4 @@
-#!/usr/bin/bash env
+#!/usr/bin/env bash
 # this file prints out lines displaying the bash `word`
 # shellcheck disable=SC2009
 
