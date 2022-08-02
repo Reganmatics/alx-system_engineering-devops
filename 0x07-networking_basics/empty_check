@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+This checks for empty command line args
+if [ -z $1 ]
+then
+	echo "empty variable"
+else
+	echo "not empty, var = $1"
+fi
